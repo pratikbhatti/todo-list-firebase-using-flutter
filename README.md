@@ -10,7 +10,7 @@ This app is a todo list using firebase . This app is made in flutter technology.
 </p>
 
 
-<h3>Add  Product View And Add Cart App Screen Video </h3>
+<h3>Todo List Using Firebase App Screen Video </h3>
 <img src="https://user-images.githubusercontent.com/125340601/230575625-bbaad389-3b07-40a7-96a2-fef9ec00a2f4.mp4" weight="450" height="550"/>
 
 
